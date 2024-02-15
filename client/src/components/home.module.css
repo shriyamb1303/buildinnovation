@@ -1,0 +1,22 @@
+.parent {
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+    padding: 0 200px;
+}
+
+.topthree {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.sort {
+    width: 350px;
+}
+
+.search {
+    width: 350px;
+}
